@@ -1,0 +1,9 @@
+height = input()
+
+weight = input()
+
+h1=float(height)
+w1=int(weight)
+bmi=int(w1/h1**2)
+
+print(bmi)
